@@ -1,0 +1,19 @@
+{
+    "blogs": [
+        {
+            "title": "Learn Python",
+            "body": "Python is a popular programming language",
+            "author": "Mukit",
+            "id" : 1
+        },
+
+        {
+            "title": "Learn DSA",
+            "body": "DSA is core concept of programming language",
+            "author": "Niama",
+            "id" : 2
+        }
+    ]
+
+
+}
