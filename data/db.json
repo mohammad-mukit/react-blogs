@@ -1,19 +1,22 @@
 {
-    "blogs": [
-        {
-            "title": "Learn Python",
-            "body": "Python is a popular programming language",
-            "author": "Mukit",
-            "id" : 1
-        },
-
-        {
-            "title": "Learn DSA",
-            "body": "DSA is core concept of programming language",
-            "author": "Niama",
-            "id" : 2
-        }
-    ]
-
-
+  "blogs": [
+    {
+      "title": "Learn DSA ",
+      "body": "DSA is the core fundamental concept of computer science.",
+      "author": "Mukit",
+      "id": 1
+    },
+    {
+      "title": "Hello JavaScript",
+      "body": "If you want to be a web developer then javascript is a must known language",
+      "author": "Raiyan",
+      "id": 2
+    },
+    {
+      "title": "Technology",
+      "body": "It is very hard to predict........",
+      "author": "Naima",
+      "id": 3
+    }
+  ]
 }
